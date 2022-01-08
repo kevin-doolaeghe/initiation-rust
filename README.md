@@ -3,7 +3,6 @@
 ## Reference
 
 * [Rust documentation](https://doc.rust-lang.org/book/title-page.html)
-* []()
 
 ## Hello, world!
 
