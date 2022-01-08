@@ -1,2 +1,11 @@
-# initiation-rust
-Rust Programming Language Course
+# Rust Programming Language Course
+
+* Compile program :
+```
+rustc main.rs
+```
+
+* Launch program :
+```
+./main
+```
